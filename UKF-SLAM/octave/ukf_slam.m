@@ -34,7 +34,7 @@ map = [];
 global scale;
 scale = 3.0;
 
-% toogle the visualization type
+% toogle the visualization typse
 showGui = true;  % show a window while the algorithm runs
 %showGui = false; % plot to files instead
 
