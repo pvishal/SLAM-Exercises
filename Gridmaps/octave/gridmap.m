@@ -60,5 +60,5 @@ for(t=1:size(poses,1))
 	map += mapUpdate;
 	
 	% Plot current map and robot trajectory so far.
-        plot_map(map, mapBox, robPoseMapFrame, poses, laserEndPntsMapFrame, gridSize, offset, t);
+    plot_map(map, mapBox, robPoseMapFrame, poses, laserEndPntsMapFrame, gridSize, offset, t);
 endfor
